@@ -1,4 +1,4 @@
-<h1>Exp 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>Exp 06 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: HARI PRIYA M         </h3>
 <h3>Register Number: 212224240047          </h3>
 <H3>Aim:</H3>
